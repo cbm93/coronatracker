@@ -22,7 +22,7 @@ This project was created with ReactJS & CSS.
 
 This applicaiton gives you real time COVID-19 updates for countries around the world, it works by pulling the data from an API. 
 
-# API Used
+# API:
 https://covid19.mathdro.id/api
 
 # Comments
