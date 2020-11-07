@@ -22,7 +22,7 @@ This project was created with ReactJS & CSS.
 
 This applicaiton gives you real time COVID-19 updates for countries around the world, it works by pulling the data from an API. 
 
-# API:
+# API
 https://covid19.mathdro.id/api
 
 # Comments
@@ -33,3 +33,8 @@ I had a learning curve creating this application as it was something I had never
 # Screenshot
 
 ![Corona Tracker](https://github.com/cbm93/coronatracker/blob/main/coronatracker.png)
+
+
+# Demo
+
+![Corona Tracker](https://github.com/cbm93/coronatracker/blob/main/coronatracker.gif)
